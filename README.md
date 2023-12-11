@@ -22,9 +22,8 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Credits
 
-    - https://code.visualstudio.com/docs/setup/mac
-    -https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-
+N/A
+    
 ## License
 
 MIT License
